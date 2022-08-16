@@ -1,2 +1,2 @@
 rest-client:
-  readtime-out: 1000
+  readtime-out: 100
